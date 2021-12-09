@@ -12,7 +12,7 @@ To write a program to find the GCD of two numbers using function.
 2. Get the two numbers from the user.
 3. Compare the two values, to find the smaller number.
 4. Use for() and if() loop to find the GCD of the two numbers.
-
+![gcd of two number](gcd.png)
 ## Program:
 Program to find the gcd of two number using function.
 Developed by: Aakash S
@@ -32,7 +32,7 @@ def gcd():
 ~~~
 
 ## Output:
-![gcd of two number](gcd.png)
+
 ![output 1](SSE1.png)
 
 ## Result:
